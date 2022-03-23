@@ -1,6 +1,6 @@
 # TacoBot
 
-[Tacobyte Discord server personal discord bot!](https://discord.gg/5vC7gdbXgn)
+[Tacobyte Discord server](https://discord.gg/acPGzacTF5) personal discord bot!
 
 # 
 Running the bot!
